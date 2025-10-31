@@ -57,7 +57,7 @@ Attackers often establish persistence to maintain access after initial compromis
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/decPEAS.git
+git clone https://github.com/root0x7/decPEAS.git
 cd decPEAS
 chmod +x decPEAS.sh
 ```
